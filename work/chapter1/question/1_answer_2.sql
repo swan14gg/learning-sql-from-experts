@@ -10,3 +10,7 @@ SELECT
   END AS greatests
 FROM
   greatests;
+
+-- 別解
+-- 1. 入れ子にする
+-- 2. 行列変換してMAX関数使用
